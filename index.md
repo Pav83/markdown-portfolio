@@ -3,4 +3,12 @@ layout: default
 ---
 
 
-[Me](https://github.com/Pav83)
+
+<br>
+
+{% include 04-lists.md %}
+
+<br>
+
+{% include 05-emphasis.md %}
+
