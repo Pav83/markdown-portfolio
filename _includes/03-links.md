@@ -8,16 +8,6 @@
 I think you should use an
 `<addr>` element here instead.
 
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-
-def foo():
-    if not bar:
-        return True
         
 First Header | Second Header
 ------------ | -------------
@@ -27,3 +17,16 @@ Content in the first column | Content in the second column
 ~~this~~
 
 @Pav83
+
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+
+
+def foo():
+    if not bar:
+        return True
